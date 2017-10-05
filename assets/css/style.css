@@ -1,0 +1,131 @@
+
+#header {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  color: #F0FFFF;
+  background: white;
+	top: 0px;
+	margin-bottom: 30px;
+}
+
+#name {
+	text-align: center;
+	margin-left: 150px;
+	background: #4aaaa5;
+	font-size: 30px;
+	width: 20%;
+	padding: 10px 5px 10px 5px;
+	font-weight: bold;
+	color: white;
+	display:inline-block;
+}
+#links {
+	display: inline-block;
+	color: grey;
+	margin-left: 400px;
+}
+
+#about {
+	display: inline-block;
+	padding: 0px 5px 0px 5px;
+}
+
+#port {
+	display:inline-block;
+	padding: 0px 5px 0px 5px;
+}
+
+#contact {
+	display:inline-block;
+	padding: 0px 5px 0px 5px;
+}
+
+.line {
+	display:inline-block;
+}
+
+body {
+	background-image: url("http://www.grassclothwallpaper.net/wp-content/uploads/2014/10/green_grass_12_1600x900.jpg");
+}
+
+#center {
+	height: 400px;
+	width: 580px;
+	background-color: white;
+	margin-left: 150px;
+	padding-left: 20px;
+	padding-right: 20px;
+	float: left;
+	width: 45%;
+}
+
+#left {
+	
+}
+
+#h1 {
+	font-size: 26px;
+	color: #4aaaa5;
+	padding: 10px 0px 0px 0px;
+}
+
+#right {
+	float: left;
+	width: 20%;
+	height: 170px;
+	width: 170px;
+	background-color: white;
+	margin-left: 40px;
+	padding: 0px 20px 0px 20px;
+}
+
+#ll {
+	background-color: #DCDCDC; height: 2px; border: 0;
+    /*height: 3px;
+    border: 3px;*/
+   
+}
+
+	#rh1 {
+		padding: 10px 0px 0px 10px;
+		font-size: 20px;
+		color: #4aaaa5;
+	}
+
+	#ll2 {
+		background-color: #DCDCDC; height: 1px; border: 0;
+	}
+
+
+	#p {
+		float: left;
+		display:inline-block;
+		width:170px;
+		height:140px;
+	}
+
+	#p1 {
+	display:inline-block;
+	float: left;
+	}
+
+	#footer {
+	position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 25px;
+  background-color: #808080;
+  text-align: center;
+	font-size: 10px;
+	color: white;
+	border-style: solid;
+    border-width: 7px 0px 0px 0px;
+	border-color: #4aaaa5;
+	}
+
+	#icon {
+		/*align-items: center;*/
+		padding-left: 0px;	
+	}
