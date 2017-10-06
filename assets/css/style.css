@@ -72,9 +72,9 @@ body {
 
 #right {
 	float: left;
-	width: 20%;
-	height: 170px;
-	width: 170px;
+	width: 12%;
+	height: 150px;
+	/*width: 170px;*/
 	background-color: white;
 	margin-left: 40px;
 	padding: 0px 20px 0px 20px;
@@ -103,6 +103,13 @@ body {
 		display:inline-block;
 		width:170px;
 		height:140px;
+		margin-right: 20px;
+	}
+	
+	#bio {
+		line-height: 30px;
+		font-size: 15px;
+
 	}
 
 	#p1 {
@@ -125,7 +132,18 @@ body {
 	border-color: #4aaaa5;
 	}
 
-	#icon {
+	/*#icon {*/
 		/*align-items: center;*/
 		padding-left: 0px;	
+	}
+
+	#contact1 {
+		height: 400px;
+	width: 580px;
+	background-color: white;
+	margin-left: 150px;
+	padding-left: 20px;
+	padding-right: 20px;
+	float: left;
+	width: 45%;
 	}
